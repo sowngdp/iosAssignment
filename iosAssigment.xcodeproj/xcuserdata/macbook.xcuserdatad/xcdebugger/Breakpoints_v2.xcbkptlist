@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A467078-ACCD-43BF-888D-226B28E8D083"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEC671DD-C8B2-4833-8F2B-77A7048D957C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBC81F45-59D2-4070-A0B1-98A0E869544F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3453AB6C-B9FB-43F4-B30C-DB0C1AD7F918"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9789B37-FA2C-4A02-83C3-B579DEC014E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UserTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - cc516540ac84fe98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.viewModel.getter : iosAssigment.UserViewModel"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - bbc382b1a9039828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.viewModel.setter : iosAssigment.UserViewModel"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - 1437829617f1ea19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.viewModel.modify : iosAssigment.UserViewModel"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - 92a1bad103bf619b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.viewModel.modify : iosAssigment.UserViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - 1b76774d99649f4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(style: __C.UITableViewStyle) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - b3d9a19fa2609f87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "D07A9E90-C97C-4E92-A366-DA77A95C677E - a566dbba6e573033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iosAssigment.UserTableViewController&gt;"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "71">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "UserTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - a919f10a0b6f15c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - 1b76774d99649f4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(style: __C.UITableViewStyle) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - 8118a85894f2db64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - b3d9a19fa2609f87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iosAssigment.UserTableViewController"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - 58cd04d1302130fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iosAssigment.UserTableViewController&gt;"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - a566dbba6e573033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iosAssigment.UserTableViewController&gt;"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "7065D634-8BE7-4343-9BC4-7C53FE91DB7F - 8ec09e9f00a540d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAssigment.UserTableViewController.__deallocating_deinit"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/Controllers/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A93B20F-AF37-4218-AA05-F76505AF6579"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "refreshData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B198AA25-11BA-4D23-8173-00A19B89B464"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/Controllers/UserTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48E3C999-313B-40FE-832F-507AA95497C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61606285-DA4A-47CB-8BF3-D4D57E848B47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61606285-DA4A-47CB-8BF3-D4D57E848B47 - 1f76305d51bb73c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "61606285-DA4A-47CB-8BF3-D4D57E848B47 - 1f76305d51bb73c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "61606285-DA4A-47CB-8BF3-D4D57E848B47 - 1f76305d51bb73c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1353">
+               </Location>
+               <Location
+                  uuid = "61606285-DA4A-47CB-8BF3-D4D57E848B47 - 1f76305d51bb73c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F84C5E8-E5E7-467D-A232-8DC80B519A12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F84C5E8-E5E7-467D-A232-8DC80B519A12 - 1f76305d51bb7223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "626">
+               </Location>
+               <Location
+                  uuid = "3F84C5E8-E5E7-467D-A232-8DC80B519A12 - 1f76305d51bb7223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "698">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AAD476A-4769-4F3C-9121-7C285FECEC6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AAD476A-4769-4F3C-9121-7C285FECEC6B - 1f76305d51bb7202"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1006">
+               </Location>
+               <Location
+                  uuid = "3AAD476A-4769-4F3C-9121-7C285FECEC6B - 1f76305d51bb7202"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1133">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83293B6B-6129-471E-AE3A-395953B5C50A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83293B6B-6129-471E-AE3A-395953B5C50A - 1f76305d51bb7261"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1367">
+               </Location>
+               <Location
+                  uuid = "83293B6B-6129-471E-AE3A-395953B5C50A - 1f76305d51bb7261"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1494">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5276C1D-1B50-4C06-939A-A984D6FCF8DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5276C1D-1B50-4C06-939A-A984D6FCF8DC - 1f76305d51bb7240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1621">
+               </Location>
+               <Location
+                  uuid = "E5276C1D-1B50-4C06-939A-A984D6FCF8DC - 1f76305d51bb7240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BF4C7A2-5C57-4719-A1BD-623AAB2F0DB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAssigment/ViewModels/UserDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "loadUserDetails(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BF4C7A2-5C57-4719-A1BD-623AAB2F0DB5 - 1f76305d51bb72fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1674">
+               </Location>
+               <Location
+                  uuid = "5BF4C7A2-5C57-4719-A1BD-623AAB2F0DB5 - 1f76305d51bb72fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosAssigment.UserDetail, Swift.Error&gt;) -&gt; () in iosAssigment.UserDetailViewModel.loadUserDetails(login: Swift.String) -&gt; ()"
+                  moduleName = "iosAssigment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iosAssigment/iosAssigment/ViewModels/UserDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1801">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

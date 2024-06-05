@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="224" id="cXA-xW-Zze" customClass="AboutCell" customModule="iosAssigment" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="498" height="118"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="cXA-xW-Zze" id="fZd-bz-suJ">
+                <rect key="frame" x="0.0" y="0.0" width="498" height="118"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0xw-mO-Pxj">
+                        <rect key="frame" x="10" y="10" width="488" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="tvr-EF-cAL"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="[Bio]" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="8qc-ig-MZC">
+                        <rect key="frame" x="0.0" y="30" width="498" height="88"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="textColor" systemColor="labelColor"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="8qc-ig-MZC" secondAttribute="bottom" id="0yy-kL-3hX"/>
+                    <constraint firstItem="8qc-ig-MZC" firstAttribute="top" secondItem="0xw-mO-Pxj" secondAttribute="top" constant="20" id="81y-wp-gzZ"/>
+                    <constraint firstItem="8qc-ig-MZC" firstAttribute="leading" secondItem="fZd-bz-suJ" secondAttribute="leading" id="Bds-bj-ZCd"/>
+                    <constraint firstAttribute="trailing" secondItem="0xw-mO-Pxj" secondAttribute="trailing" id="LrE-zs-8FJ"/>
+                    <constraint firstItem="0xw-mO-Pxj" firstAttribute="top" secondItem="fZd-bz-suJ" secondAttribute="top" constant="10" id="RCJ-6k-znA"/>
+                    <constraint firstAttribute="trailing" secondItem="8qc-ig-MZC" secondAttribute="trailing" id="U8t-f1-FvR"/>
+                    <constraint firstItem="0xw-mO-Pxj" firstAttribute="leading" secondItem="fZd-bz-suJ" secondAttribute="leading" constant="10" id="pWR-2d-VLc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="AboutLable" destination="0xw-mO-Pxj" id="9y1-Sh-pRa"/>
+                <outlet property="bioTextView" destination="8qc-ig-MZC" id="kU3-uJ-tP3"/>
+            </connections>
+            <point key="canvasLocation" x="-83.969465648854964" y="-54.225352112676056"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
